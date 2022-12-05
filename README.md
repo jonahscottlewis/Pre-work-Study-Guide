@@ -18,7 +18,6 @@ N/A
 
 This study guide can be used to store easy-to-access information about the basics of HTML, CSS, JavaScript, and Git. There are dedicated sections with information regarding each of these topics. DevTools can be used to demonstrate these various sections and the interactive JavaScript coded into the project. This will randomly select a topic from the list and suggest it to be studied first.
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
